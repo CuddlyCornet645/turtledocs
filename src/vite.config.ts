@@ -5,7 +5,8 @@ export default defineConfig({
     allowedHosts: [
       'yddmrtua3kjw.connect.remote.it',
       'localhost',
-      '127.0.0.1'
+      '127.0.0.1',
+      'jtobler.net'
     ]
   }
 });

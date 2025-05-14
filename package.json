@@ -4,8 +4,8 @@
     "vue": "^3.5.13"
   },
   "scripts": {
-    "docs:dev": "vitepress dev src/docs/ --host 0.0.0.0 --port 4321",
-    "docs:build": "vitepress build src/docs/",
-    "docs:preview": "vitepress preview src/docs/"
+    "docs:dev": "vitepress dev src/ --host 0.0.0.0 --port 4321",
+    "docs:build": "vitepress build src/",
+    "docs:preview": "vitepress preview src/"
   }
 }

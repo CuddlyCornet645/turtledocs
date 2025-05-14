@@ -1,32 +1,20 @@
 ---
 layout: home
-title: Willkommen bei YTDLnis Docs
+outline: deep
+title: Turtle Aufträge
 hero:
-  name: YTDLnis Dokumentation
-  text: Alles, was du wissen musst, um YTDLnis optimal zu nutzen.
-  tagline: Schnellstart, Guides, FAQ & mehr – alles an einem Ort.
+  name: Turtle Aufträge
+  text: Aufträge & Lehrmittel
+  tagline: Aufträge für das Python Modul Turtle & Lehrmittel
   image:
-    src: /img/logo.png
-    alt: YTDLnis Logo
-    width: 120
-    height: 120
+    src: static/turtle.png
+    alt: Turtle Grafik
+    width: 190
+    height: 190
   actions:
-    - theme: brand
-      text: Erste Schritte
-      link: /guides/getting-started
     - theme: alt
-      text: GitHub
-      link: https://github.com/deniscerri/ytdlnis
-features:
-  - icon: ⚡
-    title: Schnellstart
-    details: In wenigen Minuten loslegen – Schritt-für-Schritt-Anleitung für Einsteiger.
-  - icon: 📚
-    title: Umfangreiche Guides
-    details: Lerne alles über die Funktionen und Möglichkeiten von YTDLnis.
-  - icon: 💬
-    title: Community & Support
-    details: Erhalte Hilfe im Telegram- oder Discord-Channel und tausche dich mit anderen aus.
+      text: Hier Starten
+      link: docs/index.md
 ---
 
 # Willkommen bei den YTDLnis Docs!
